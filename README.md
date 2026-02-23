@@ -33,17 +33,17 @@ Identify the reasons behind the increase in customer churn. It also aims to find
 
  ## Key Insights
  
-- Total churn is 1732 which about 27% of customers (Average Churn Rate).
-- Churn females is more than males (64%).
+- Total churn is 1732 which is about 27% of customers (Average Churn Rate).
+- Churn females are more than males (64%).
 - About 50% of churn customers are above 50 years old.
-- Fiber optic service is the most churn rate among others type (41.1%).
-- Jamu & Kashmir is the most churn rate among others states (57.2%). 77% of them because of the competitor offers.
+- Fiber optic service has the highest churn rate among other types (41.1%).
+- Jamu & Kashmir has the highest churn rate among other states (57.2%). 77% of them because of the competitor's offers.
 - About 88% of total churn their contract is Month-to-Month.
 - About 12% of total churn their contract is one year or two year despite they represented about half of all customers (49%).
-- Churn rate for customers who their contract is Two year is very low (2.5%) despite they represented more than quarter of all customers (27%).
-- Tenure group (7-12 months) is the heighest churn rate (28.1%).
-- Although 78.3% of all customers used internet service, The vast majority of those who churned about 93.7% had internet service.
-- Although 67.5% of all customers used unlimited data, The vast majority of those who churned about 80% used unlimited data.
+- Churn rate for customers whose contract is two years is very low (2.5%) despite they represented more than a quarter of all customers (27%).
+- Tenure group (7-12 months) has the highest churn rate (28.1%).
+- Although 78.3% of all customers used internet service, the vast majority of those who churned about 93.7% had internet service.
+- Although 67.5% of all customers used unlimited data, the vast majority of those who churned about 80% used unlimited data.
 
 ## Recommendations
 
