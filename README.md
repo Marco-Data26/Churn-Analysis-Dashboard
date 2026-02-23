@@ -1,7 +1,7 @@
 # Churn-Analysis-Dashboard
 
 ![image](Churn_Analysis.png)
-![gif](Adidas_Sales_p1.gif)
+![gif](Churn_Analysis_Power%20BI_2.gif)
 
 ## Description
 
