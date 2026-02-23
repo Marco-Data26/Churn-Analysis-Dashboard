@@ -11,13 +11,13 @@ This dashboard helps visualize sales performance and trends across different sal
 
 ## Data & Tools Used
 
-**Data** - Sales Data containing over 9600 records across 2020 and 2021.
+**Data** - Customers Data containing over 6400 records.
 
-**Data Source** - ([Adidas Dataset.xlsx](Adidas%20Dataset.xlsx))
+**Data Source** - [[Dataset.csv]](Customer_Data.csv)
 
-**Data Cleaning & Analysis** - Power Query & Pivot Table
+**Data Cleaning & Analysis** - SQL server & Power Query
 
-**Data Visualization** - Excel ([Adidas Sales.xlsm](Adidas_Sales.xlsm))
+**Data Visualization** - Power BI [Churn_Analysis.pbix](Churn_Analysis.pbix)
 
 ## Objective
 
