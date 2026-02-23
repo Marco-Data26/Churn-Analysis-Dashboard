@@ -13,9 +13,9 @@ This dashboard helps visualize sales performance and trends across different sal
 
 **Data** - Customers Data containing over 6400 records.
 
-**Data Source** - [[Dataset.csv]](Customer_Data.csv)
+**Data Source** - [[Customer_Data.csv]](Customer_Data.csv)
 
-**Data Cleaning & Analysis** - SQL server & Power Query [cleaning.sql](null_exploring.sql) (prod_table.sql)
+**Data Cleaning & Analysis** - SQL server & Power Query [null_exploring.sql](null_exploring.sql) [prod_table.sql](prod_table.sql) [grouping.sql](grouping.sql)
 
 **Data Visualization** - Power BI [Churn_Analysis.pbix](Churn_Analysis.pbix)
 
