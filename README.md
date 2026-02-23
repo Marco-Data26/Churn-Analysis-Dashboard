@@ -5,7 +5,7 @@
 
 ## Description
 
-Interactive churn dashboard for a telecome company using SQL server and Power BI(Power query and Dax).
+Interactive churn dashboard for a telecome company using SQL server and Power BI (Power query and Dax).
 
 This dashboard Focuses on churn analysis across all age groups, genders, states, contracts and as well as across all services.
 
@@ -25,18 +25,22 @@ Identify the reasons behind the increase in customer churn. It also aims to find
 
 ## Root Causes
 
-- Only 9 states were active in 2020, compared to 46 states in 2021.
-- A key factor was the low emphasis on the online sales channel, which only contributed 18% of revenue ($4.5M), while in 2021, it surged to 42% ($40.4M).
-- Marketing campaigns were not expanded to new regions in 2020.
-- External economic challenges in 2020, such as market instability and reduced consumer demand, also played a significant role in the revenue decline.
+- The main driver of churn is competition. 44% of customers confirmed that the competitor offers better devices, better deals, more data and higher download speed. 
+- Among those who used the fiber optic service, 41% canceled it. This indicates a problem with this type of service.
+- Many customers complained about the attitude of the support staff and the service provider.
+- A decline in service performance and user experience, including network issuses, limited service range, and poor online and phone support.
+- Some of customers complained about the prices especially long distance charges.
 
  ## Key Insights
  
-- Revenue and sales volume in 2021 both increased about four times compared to 2020 from $24M in 2020 to $96M in 2021, and from 0.5M (2020) to 2M units (2021).
-- New York, California and Florida were the top states, contributing about $25M, or about 21% of total revenue.
-- Street Footwear was the largest contributor, generating about $45M (37.4% of total revenue), with about 1M units sold, and male buyers contributed 62% of that revenue.
-- In 2021, July was the top month at $10.4M, while March was the lowest at $5.2M. In 2020 April led with $3.2M, and December was the lowest at $1.1M.
-- For regions, the West was the highest revenue at $36.4M, while the Midwest was the lowest at $16.7M.
+- Total churn is 1732 which about 27% of customers (Average Churn Rate).
+- Churn females is more than males (64%).
+- About 50% of churn customers are above 50 years old.
+- Fiber optic service is the most churn rate among others type (41.1%).
+- Jamu & Kashmir is the most churn rate among others states (57.2%). 77% of them because of the competitor offers.
+- About 88% of total churn their contract is Month-to-Month.
+- Tenure group (7-12 months) is the heighest churn rate (28.1%).
+- Although 78.3% of all customers used internet service, The vast majority of those who churned about 93.7% had internet service.
 
 ## Recommendations
 
