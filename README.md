@@ -5,9 +5,9 @@
 
 ## Description
 
-Interactive sales dashboard for Adidas products using Excel with pivot tables and slicers.
+Interactive churn dashboard for a telecome company using SQL server and Power BI(Power query and Dax).
 
-This dashboard helps visualize sales performance and trends across different sales channels, regions and products for male and female customers.
+This dashboard Focuses on churn analysis across all age groups, genders, states, contracts and as well as across all services.
 
 ## Data & Tools Used
 
@@ -21,7 +21,7 @@ This dashboard helps visualize sales performance and trends across different sal
 
 ## Objective
 
-The company experienced a significant revenue drop in 2020 compared to 2021 and wanted to identify the key drivers behind this decline while providing strategic recommendations to support revenue recovery and future growth. 
+Identify the reasons behind the increase in customer churn. It also aims to find effective strategies to reduce churn and improve customer retention. 
 
 ## Root Causes
 
