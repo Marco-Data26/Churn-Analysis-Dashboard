@@ -15,7 +15,7 @@ This dashboard helps visualize sales performance and trends across different sal
 
 **Data Source** - [[Dataset.csv]](Customer_Data.csv)
 
-**Data Cleaning & Analysis** - SQL server & Power Query
+**Data Cleaning & Analysis** - SQL server & Power Query [cleaning.sql](null_exploring.sql) (prod_table.sql)
 
 **Data Visualization** - Power BI [Churn_Analysis.pbix](Churn_Analysis.pbix)
 
