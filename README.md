@@ -43,10 +43,7 @@ Identify the reasons behind the increase in customer churn. It also aims to find
 - About 88% of churned customers were on Month-to-Month contracts.
 - Only 12% of churned customers had one-year or two-year contracts, despite representing about half of all customers (49%).
 - Customers with two-year contracts have a very low churn rate (2.5%), although they represent more than a quarter of all customers (27%).
-+ Jamu & Kashmir has the highest churn rate among all states (57.2%). 77% of churned customers in this state attributed it to competitor offers.
-
-
-
+- Jamu & Kashmir has the highest churn rate among all states (57.2%). 77% of churned customers in this state attributed it to competitor offers.
 
 ## Recommendations
 
