@@ -33,17 +33,20 @@ Identify the reasons behind the increase in customer churn. It also aims to find
 
  ## Key Insights
  
-- Total churn is 1732 which is about 27% of customers (Average Churn Rate).
-- Churn females are more than males (64%).
-- About 50% of churn customers are above 50 years old.
-- Fiber optic service has the highest churn rate among other types (41.1%).
-- Jamu & Kashmir has the highest churn rate among other states (57.2%). 77% of them because of the competitor's offers.
-- About 88% of total churn their contract is Month-to-Month.
-- About 12% of total churn their contract is one year or two year despite they represented about half of all customers (49%).
-- Churn rate for customers whose contract is two years is very low (2.5%) despite they represented more than a quarter of all customers (27%).
-- Tenure group (7-12 months) has the highest churn rate (28.1%).
-- Although 78.3% of all customers used internet service, the vast majority of those who churned about 93.7% had internet service.
-- Although 67.5% of all customers used unlimited data, the vast majority of those who churned about 80% used unlimited data.
+- Total churn is 1732 customers, representing 27% of total customers.
+- 64% of churned customers are female.
+- About 50% of churned customers are above 50 years old.
+- The 7-12 months Tenure group has the highest churn rate (28.1%).
+- Fiber optic service shows the highest churn rate among internet types (41.1%).
+- Although 78.3% of all customers use internet service, 93.7% of churned customers had internet service.
+- Although 67.5% of all customers use unlimited data, 80% of churned customers were unlimited data users.
+- About 88% of churned customers were on Month-to-Month contracts.
+- Only 12% of churned customers had one-year or two-year contracts, despite representing about half of all customers (49%).
+- Customers with two-year contracts have a very low churn rate (2.5%), although they represent more than a quarter of all customers (27%).
++ Jamu & Kashmir has the highest churn rate among all states (57.2%). 77% of churned customers in this state attributed it to competitor offers.
+
+
+
 
 ## Recommendations
 
