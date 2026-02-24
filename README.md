@@ -5,13 +5,13 @@
 
 ## Description
 
-Interactive churn dashboard for a telecome company using SQL server and Power BI (Power query and Dax).
+Interactive churn dashboard for a telecom company using SQL server and Power BI (Power query and DAX).
 
-This dashboard Focuses on churn analysis across all age groups, genders, states, contracts and as well as across all services.
+This dashboard focuses on churn analysis across different age groups, genders, states, contracts types, payment methods and services.
 
 ## Data & Tools Used
 
-**Data** - Customers Data containing over 6400 records.
+**Data** - Customer Data containing over 6400 records.
 
 **Data Source** - [[Customer_Data.csv]](Customer_Data.csv)
 
@@ -41,11 +41,11 @@ Identify the reasons behind the increase in customer churn. It also aims to find
 
 ## Root Causes
 
-- The main driver of churn is competition. 44% of customers confirmed that the competitor offers better devices, better deals, more data and higher download speed. 
+- The main driver of churn is competition, as the competitor offers better devices, better deals, more data and higher download speeds. 
 - The weakness of the internet service is also a major cause of the high churn rate, especially in fiber optic service. This indicates a problem with this type of service.
 - Many customers complained about the attitude of the support staff and the service provider.
-- A decline in service performance and user experience, including network issuses, limited service range, and poor online and phone support.
-- Some of customers complained about the prices especially long distance charges.
+- A decline in service performance and user experience, including network issues, limited service range, and poor online and phone support.
+- Some of the customers complained about the prices especially long-distance charges.
 
 ## Recommendations
 
