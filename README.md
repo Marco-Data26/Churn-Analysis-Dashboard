@@ -57,4 +57,4 @@ Identify the reasons behind the increase in customer churn. It also aims to find
 - Optimize bank withdrawal and mailed check payments by enhancing support, simplifying the payment process, and speeding up transaction times, to reduce churn in these segments.
 - Support the customer segment paying between 50 and 100 monthly charges by offering loyalty incentives and special deals.
 - Prioritize high-risk segments such as female customers and customers above 50 years old by offering customized rewards and service enhancements.
-- Design special offers for 'Jammu & Kashmir' state by creating exclusive deals, rewards, and customized incentives for this region to bring these customers back and reduce churn from 57% to 35% within 6 months. 
+- Design special offers for 'Jammu & Kashmir' by creating exclusive deals, rewards, and customized incentives for this region to bring these customers back and reduce churn from 57% to 35% within 6 months. 
