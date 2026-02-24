@@ -41,11 +41,10 @@ Identify the reasons behind the increase in customer churn. It also aims to find
 
 ## Root Causes
 
-- The main driver of churn is competition, as the competitor offers better devices, better deals, more data and higher download speeds. 
-- The weakness of the internet service is also a major cause of the high churn rate, especially in fiber optic service. This indicates a problem with this type of service.
-- Many customers complained about the attitude of the support staff and the service provider.
-- A decline in service performance and user experience, including network issues, limited service range, and poor online and phone support.
-- Some of the customers complained about the prices especially long-distance charges.
+- Competition: Competitors offer better devices, deals, more data and higher download speeds. 
+- Service Quality: Issues in fiber optic service, network problems, limited coverage and poor online and phone support.
+- Customer Support:Negative experiences with staff and service provider behavior.
+- Pricing: Issues in long-distance charges and extra-data charges.
 
 ## Recommendations
 
