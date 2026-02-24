@@ -45,6 +45,7 @@ Identify the reasons behind the increase in customer churn. It also aims to find
 - Customers with two-year contracts have a very low churn rate (2.5%), although they represent more than a quarter of all customers (27%).
 - The heighest churn rate was for customers with a monthly charge of 50 to 100, and this group is also the largest segment at 33.3%, while the lowest churn rate was for those with a charge under 20, at 11.9%.
 - Payment by mailed check is associated with the heighest churn rate, at 37.8%, while payment by credit card has the lowest churn rate, at 14.8%.
+- Payment by bank withdrawal also has a high churn rate, at 34.4%, and it also representes the largest customers segment.
 - Jamu & Kashmir has the highest churn rate among all states (57.2%). 77% of churned customers in this state attributed it to competitor offers.
 
 ## Recommendations
