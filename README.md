@@ -45,7 +45,7 @@ Identify the reasons behind the increase in customer churn. It also aims to find
 - The 7-12 months Tenure group has the highest churn rate (28.1%).
 - 64% of churned customers are female.
 - About 50% of churned customers are above 50 years old, which is higher than the expected average, as their rate among all customers is 42.5%.
-- Jamu & Kashmir has the highest churn rate among all states (57.2%). 77% of churned customers in this state attributed their decision to the competitor offers.
+- Jammu & Kashmir has the highest churn rate among all states (57.2%). 77% of churned customers in this state attributed their decision to the competitor offers.
   
 ## Recommendations
 
