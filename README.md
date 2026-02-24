@@ -41,10 +41,10 @@ Identify the reasons behind the increase in customer churn. It also aims to find
 
 ## Root Causes
 
-- Competition: Competitors offer better devices, deals, more data and higher download speeds. 
-- Service Quality: Issues in internet service especially fiber optic type, network problems, limited coverage and poor online and phone support.
+- Competition: Competitors offer better devices, deals, more data and high download speeds. 
+- Service Quality: Issues in internet service particularly fiber optic type, network problems, limited coverage and poor online and phone support.
 - Customer Support: Negative experiences with staff and service provider behavior.
-- Pricing: Dissatisfaction with long-distance charges and extra-data charges.
+- Pricing: Dissatisfaction with long-distance and extra-data charges.
 
 ## Recommendations
 
