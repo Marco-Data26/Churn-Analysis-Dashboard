@@ -39,7 +39,6 @@ Identify the reasons behind the increase in customer churn. It also aims to find
 - Customers on Month-to-Month contracts are 17x more likely to churn compared to two-year contract customers (46.5% --> 2.7%).
 - Customers with internet service are 4x more likely to churn compared to without internet service customers (32.3% --> 7.8%).
 - Fiber optic service shows the highest churn rate among internet types (41.1%).
-- Although 67.5% of all customers use unlimited data, 80% of churned customers were unlimited data users.
 - The highest churn rate was for customers with a monthly charge of 50 to 100, and this group is also the largest segment at 33.3%, while the lowest churn rate was for those with a charge under 20, at 11.9%.
 - Payment by mailed check is associated with the highest churn rate, at 37.8%, while payment by credit card has the lowest churn rate, at 14.8%.
 - Payment by bank withdrawal also has a similarly high churn rate, at 34.4%, and it also represents the largest customer segment.
