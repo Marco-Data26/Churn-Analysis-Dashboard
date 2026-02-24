@@ -48,4 +48,13 @@ Identify the reasons behind the increase in customer churn. It also aims to find
 
 ## Recommendations
 
-
+- Improving user experience by making better offers, upgrading devices quality and offering more data to achieve a 10% increase in customer retention over the next 6 months.
+- Improve Internet quality specifically for fiber optic type by enhancing network performance, reducing latency and boosting internet speeds. 
+- Enhance network reiliability by Adding more access points and decreasing downtime and expand service coverage to reach more areas.
+- Improve both online and phone support by conducting training sessions to enhance the skills of our technical support staff to meet customer needs.
+- Reevaluate the pricing particularly long-distance charges and extra data charges and introduce attractive pricing offers to attract customers.
+- Introduce strong incentives to attract customers to long-term contracts, such as one-year or two-year plans, in order to boost customer retention.
+- Improve both bank withdrawal and mailed check payments by enhancing support, simplifying the payment process, and speeding up transaction times, to reduce churn in this customer groups.
+- Support the customer segment paying between 50 and 100 charges monthly by offering attractive incentives and special deals to build their loyalty to the company.
+- Prioritize female customers and those over 50 years as core segments. Provide them with exclusive rewards and improved services to lower their churn rates.
+- Design special offers for 'Jammu & Kashmir' state, as it has the highest churn rate by creating exclusive deals, rewards, and customized incentives for this region to bring these customers back and reduce churn. 
