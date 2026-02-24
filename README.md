@@ -49,7 +49,7 @@ Identify the reasons behind the increase in customer churn. It also aims to find
 ## Recommendations
 
 - Improve user experience by introducing competitive offers, upgrading device quality and increasing data packages to achieve a 10% increase in customer retention within 6 months.
-- Enhance fiber-optic service by improving network performance, reducing latency and increasing internet speeds. 
+- Enhance fiber-optic service by improving network performance, reducing latency and increasing internet speeds by 20%.
 - Strengthen network reliability by adding more access points, decreasing downtime by at least 15%, and expanding service coverage to reach more areas.
 - Improve technical support by conducting regular training sessions to enhance the skills of our staff and customer satisfaction.
 - Reevaluate pricing strategy, particularly long-distance and extra data charges and introduce competitive pricing plans.
