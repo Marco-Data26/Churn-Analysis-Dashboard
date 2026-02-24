@@ -23,14 +23,6 @@ This dashboard Focuses on churn analysis across all age groups, genders, states,
 
 Identify the reasons behind the increase in customer churn. It also aims to find effective strategies to reduce churn and improve customer retention. 
 
-## Root Causes
-
-- The main driver of churn is competition. 44% of customers confirmed that the competitor offers better devices, better deals, more data and higher download speed. 
-- Among those who used the fiber optic service, 41% canceled it. This indicates a problem with this type of service.
-- Many customers complained about the attitude of the support staff and the service provider.
-- A decline in service performance and user experience, including network issuses, limited service range, and poor online and phone support.
-- Some of customers complained about the prices especially long distance charges.
-
  ## Key Insights
  
 - Total churn is 1732 customers, representing 27% of total customers.
@@ -39,14 +31,22 @@ Identify the reasons behind the increase in customer churn. It also aims to find
 - Customers on Month-to-Month contracts are 17x more likely to churn compared to two-year contract customers (46.5% --> 2.7%).
 - Customers with internet service are 4x more likely to churn compared to customers without internet service (32.3% --> 7.8%).
 - Fiber optic service shows the highest churn rate among internet types (41.1%).
-- The highest churn rate was for customers with a monthly charge of 50 to 100, and this group is also the largest segment at 33.3%, while the lowest churn rate was for those with a charge under 20, at 11.9%.
+- Customers with monthly charges between 50 and 100 have the highest churn rate and represent the largest segment (33.3%), while customers with charges under 20 show the lowest churn rate (11.9%).
 - Payment by mailed check is associated with the highest churn rate, at 37.8%, while payment by credit card has the lowest churn rate, at 14.8%.
 - Payment by bank withdrawal also has a similarly high churn rate, at 34.4%, and it also represents the largest customer segment.
 - The 7-12 months Tenure group has the highest churn rate (28.1%).
 - 64% of churned customers are female.
 - About 50% of churned customers are above 50 years old, which is higher than the expected average, as their rate among all customers is 42.5%.
-- Jammu & Kashmir has the highest churn rate among all states (57.2%). 77% of churned customers in this state attributed their decision to the competitor offers.
-  
+- Jammu & Kashmir has the highest churn rate among all states (57.2%). 77% of churned customers in this state attributed their churn to the competitor offers.
+
+## Root Causes
+
+- The main driver of churn is competition. 44% of customers confirmed that the competitor offers better devices, better deals, more data and higher download speed. 
+- The weakness of the internet service is also a major cause of the high churn rate, especially in fiber optic service. This indicates a problem with this type of service.
+- Many customers complained about the attitude of the support staff and the service provider.
+- A decline in service performance and user experience, including network issuses, limited service range, and poor online and phone support.
+- Some of customers complained about the prices especially long distance charges.
+
 ## Recommendations
 
 
