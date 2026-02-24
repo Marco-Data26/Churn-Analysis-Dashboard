@@ -49,12 +49,12 @@ Identify the reasons behind the increase in customer churn. It also aims to find
 ## Recommendations
 
 - Improve user experience by introducing competitive offers, upgrading device quality and increasing data packages to achieve a 10% increase in customer retention within 6 months.
-- Enhance Internet quality specifically for fiber optic type by enhancing network performance, reducing latency and boosting internet speeds. 
+- Enhance Internet quality specifically for fiber-optic type by improving network performance, reducing latency and increasing internet speeds. 
 - Strengthen network reliability by adding more access points, decreasing downtime by at least 15%, and expanding service coverage to reach more areas.
-- Improve both online and phone support by conducting regular training sessions to enhance the skills of our technical support staff to meet customer needs.
-- Reevaluate pricing strategy, particularly long-distance and extra data charges and introduce competitive pricing plans to attract customers.
+- Improve online and phone support by conducting regular training sessions to enhance the skills of our technical support staff and customer satisfaction.
+- Reevaluate pricing strategy, particularly long-distance and extra data charges and introduce competitive pricing plans.
 - Offer strong incentives to attract customers to long-term contracts (1-2 years) to boost customer retention.
-- Optimize bank withdrawal and mailed check payments by enhancing support, simplifying the payment process, and speeding up transaction times, to reduce churn in these customer groups.
-- Support the customer segment paying between 50 and 100 monthly charges by offering attractive incentives and special deals, to build their loyalty to the company.
-- Prioritize high-risk segments such as female customers and customers above 50 years old by offering customized rewards and services enhancements to lower their churn rates.
-- Design special offers for 'Jammu & Kashmir' state, as it has the highest churn rate by creating exclusive deals, rewards, and customized incentives for this region to bring these customers back and reduce churn from 57% to 35% within 6 months. 
+- Optimize bank withdrawal and mailed check payments by enhancing support, simplifying the payment process, and speeding up transaction times, to reduce churn in these segments.
+- Support the customer segment paying between 50 and 100 monthly charges by offering loyalty incentives and special deals.
+- Prioritize high-risk segments such as female customers and customers above 50 years old by offering customized rewards and service enhancements.
+- Design special offers for 'Jammu & Kashmir' state by creating exclusive deals, rewards, and customized incentives for this region to bring these customers back and reduce churn from 57% to 35% within 6 months. 
