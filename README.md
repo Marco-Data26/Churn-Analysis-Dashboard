@@ -21,7 +21,7 @@ This dashboard focuses on churn analysis across different age groups, genders, s
 
 ## Objective
 
-Identify the reasons behind the increase in customer churn. It also aims to find effective strategies to reduce churn and improve customer retention. 
+Identify the reasons behind the increase in customer churn and aim to find effective strategies to reduce churn and improve customer retention. 
 
  ## Key Insights
  
